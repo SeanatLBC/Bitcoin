@@ -3,6 +3,7 @@ Without Bitcoin - Many of the innovations we are seeing emerge would not be happ
 BITCOIN
 
 Bitcoin.org:  https://bitcoin.org/en/
+
 Bitcoin Wiki:  https://en.bitcoin.it/wiki/Main_Page
 
 
