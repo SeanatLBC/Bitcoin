@@ -1,5 +1,10 @@
 Without Bitcoin - Many of the innovations we are seeing emerge would not be happening....most.  It is with this in mind, that keeping up to date with developments of the core protocol and overall adoption of Bitcoin is so important.  Where Bitcoin goes...so will the rest of the market (At least for now)
 
+BITCOIN
+
+Bitcoin.org:  https://bitcoin.org/en/
+Bitcoin Wiki:  https://en.bitcoin.it/wiki/Main_Page
+
 
  *  Satoshi Institute:  https://nakamotoinstitute.org/
  
