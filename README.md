@@ -21,7 +21,7 @@ LIGHTNING NETWORK
   *  VIDEO - Lightning Network Trust Video:  https://youtu.be/89TSOayiqtA
   *  PASS THE TORCH:  https://www.takethetorch.online/Torch
   
-  https://tallyco.in/s/thz6f7/
+Tally Chart       https://tallyco.in/s/thz6f7/
     
     
 
