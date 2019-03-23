@@ -10,6 +10,7 @@ Without Bitcoin - Many of the innovations we are seeing emerge would not be happ
 LIGHTNING NETWORK
 
   *  The Lightning Network:  https://lightning.network/
+  *  The Lightning Wiki:  https://en.wikipedia.org/wiki/Lightning_Network
  
     *  1ML - Lightning Network Search and Analysis Engine:  https://1ml.com/
     *  The Lightning Network Trust Challenge Video - SEE THE EVOLUTION:  https://www.btcsatoshi.com/
