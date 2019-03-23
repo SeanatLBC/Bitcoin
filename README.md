@@ -9,13 +9,12 @@ Without Bitcoin - Many of the innovations we are seeing emerge would not be happ
 
  *  LIGHTNING NETWORK
     *  1ML - Lightning Network Search and Analysis Engine:  https://1ml.com/
+    *  The Lightning Network Trust Challenge Video - SEE THE EVOLUTION:  https://www.btcsatoshi.com/
  
  *  Schnorr / Rootstock / Lightning / etc - https://blockchainwhispers.com/bitcoin-btc-2019/
 
  *  PURSE.io (Buy items on Amazon with Bitcoin (using Purse.io) to get 5% to 50% off):  https://www.youtube.com/watch?v=waF3E9QIIGc&feature=youtu.be
     *  This is a great way to dip your toes with BTC.  Buy $20 / $40 / $100 / etc of bitcoin and use here (to get familiar without risk WHILE    getting discounts on Amazon purchases!).
-    
- *  The Lightning Network Trust Challenge Video - SEE THE EVOLUTION:  https://www.btcsatoshi.com/
     
     
 TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS 
