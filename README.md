@@ -7,7 +7,10 @@ Without Bitcoin - Many of the innovations we are seeing emerge would not be happ
  
  *  Satoshi Calculator [instantly convert any USD, GBP, RUB, CAD, etc into BTC Sats]:  https://www.btcsatoshi.com/
 
- *  LIGHTNING NETWORK
+LIGHTNING NETWORK
+
+  *  The Lightning Network:  https://lightning.network/
+ 
     *  1ML - Lightning Network Search and Analysis Engine:  https://1ml.com/
     *  The Lightning Network Trust Challenge Video - SEE THE EVOLUTION:  https://www.btcsatoshi.com/
  
