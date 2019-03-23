@@ -18,8 +18,10 @@ LIGHTNING NETWORK
   *  The Lightning Network:  https://lightning.network/
   *  The Lightning Wiki:  https://en.wikipedia.org/wiki/Lightning_Network
  
-    *  1ML - Lightning Network Search and Analysis Engine:  https://1ml.com/
-    *  The Lightning Network Trust Challenge Video - SEE THE EVOLUTION:  https://www.btcsatoshi.com/
+  *  VIDEO - Lightning Network Trust Video:  https://youtu.be/89TSOayiqtA
+  *  PASS THE TORCH:  https://www.takethetorch.online/Torch
+    *  Tally Chart:  https://tallyco.in/s/thz6f7/
+
  
  *  Schnorr / Rootstock / Lightning / etc - https://blockchainwhispers.com/bitcoin-btc-2019/
 
