@@ -2,6 +2,10 @@ Without Bitcoin - Many of the innovations we are seeing emerge would not be happ
 
 BITCOIN
 
+The Bitcoin Genesis Block contains this Message:  "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks" 
+
+Tx:000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f 
+
 Bitcoin.org:  https://bitcoin.org/en/
 
 Bitcoin Wiki:  https://en.bitcoin.it/wiki/Main_Page
