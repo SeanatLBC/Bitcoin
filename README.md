@@ -43,7 +43,7 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   Portfolio Management  
   *  CoinTracking:  https://cointracking.info/
   
-  Bitcoin 
+  Bitcoin Explorers 
   *  Block Explorer:  https://www.blockchain.com/explorer
   *  Block Cypher:  https://live.blockcypher.com/btc/
 
