@@ -8,9 +8,9 @@ Tx:000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
 
 Bitcoin Halving Countdown Clock:  https://www.bitcoinblockhalf.com/ [Understand this to understand the rest]
 
-Bitcoin.org:  https://bitcoin.org/en/
+ *  Bitcoin.org:  https://bitcoin.org/en/
 
-Bitcoin Wiki:  https://en.bitcoin.it/wiki/Main_Page
+ *  Bitcoin Wiki:  https://en.bitcoin.it/wiki/Main_Page
 
 
  *  Satoshi Institute:  https://nakamotoinstitute.org/
