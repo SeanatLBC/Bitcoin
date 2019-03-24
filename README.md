@@ -12,6 +12,8 @@ Bitcoin Wiki:  https://en.bitcoin.it/wiki/Main_Page
  *  Satoshi Wiki:  https://en.wikipedia.org/wiki/Satoshi_Nakamoto
  
  *  Satoshi Calculator [instantly convert any USD, GBP, RUB, CAD, etc into BTC Sats]:  https://www.btcsatoshi.com/
+ 
+ *  Bitcoin Halving Countdown Clock:  https://www.bitcoinblockhalf.com/
 
 LIGHTNING NETWORK
 
