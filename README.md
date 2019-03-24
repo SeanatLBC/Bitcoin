@@ -40,10 +40,11 @@ Tally Chart       https://tallyco.in/s/thz6f7/
     
 TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS 
 
-  Portfolio Management  
+  Portfolio Management - you can use these to track coins you hold or have traded (wallets, exchange, coin and transaction basis (for tax) and fiat values)
   *  CoinTracking:  https://cointracking.info/
+  *  CryptoCompare:  https://www.cryptocompare.com/
   
-  Bitcoin Explorers 
+  Bitcoin Explorers - you can use these to see all your activity on the public blockchain (Bitcoin) 
   *  Block Explorer:  https://www.blockchain.com/explorer
   *  Block Cypher:  https://live.blockcypher.com/btc/
 
