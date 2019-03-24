@@ -11,6 +11,10 @@ Tx:000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
  *  Bitcoin.org:  https://bitcoin.org/en/
 
  *  Bitcoin Wiki:  https://en.bitcoin.it/wiki/Main_Page
+ 
+ *  Byzantine Fault Tolerance Wiki:  https://en.wikipedia.org/wiki/Byzantine_fault
+ 
+ *  Byzantine General (explained):  https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969
 
 
  *  Satoshi Institute:  https://nakamotoinstitute.org/
