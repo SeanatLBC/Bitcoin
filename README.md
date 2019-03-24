@@ -6,6 +6,8 @@ The Bitcoin Genesis Block contains this message (taken from the front page of Ti
 
 Tx:000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f 
 
+Bitcoin Halving Countdown Clock:  https://www.bitcoinblockhalf.com/ [Everything you need to understand about Bitcoin is found in here]
+
 Bitcoin.org:  https://bitcoin.org/en/
 
 Bitcoin Wiki:  https://en.bitcoin.it/wiki/Main_Page
@@ -16,8 +18,6 @@ Bitcoin Wiki:  https://en.bitcoin.it/wiki/Main_Page
  *  Satoshi Wiki:  https://en.wikipedia.org/wiki/Satoshi_Nakamoto
  
  *  Satoshi Calculator [instantly convert any USD, GBP, RUB, CAD, etc into BTC Sats]:  https://www.btcsatoshi.com/
- 
- *  Bitcoin Halving Countdown Clock:  https://www.bitcoinblockhalf.com/
 
 LIGHTNING NETWORK
 
