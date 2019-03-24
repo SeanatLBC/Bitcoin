@@ -6,7 +6,7 @@ The Bitcoin Genesis Block contains this message (taken from the front page of Ti
 
 Tx:000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f 
 
-Bitcoin Halving Countdown Clock:  https://www.bitcoinblockhalf.com/ [Everything you need to understand about Bitcoin is found in here]
+Bitcoin Halving Countdown Clock:  https://www.bitcoinblockhalf.com/ [Understand this to understand the rest]
 
 Bitcoin.org:  https://bitcoin.org/en/
 
