@@ -40,7 +40,7 @@ Tally Chart       https://tallyco.in/s/thz6f7/
     
 TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS 
 
-  Portfolio Management - you can use these to track coins you hold or have traded (wallets, exchanges, coins and transactions. Basis for tax tracking and fiat values for portfolio analysis)
+  Portfolio Management - you can use these to track coins you hold or have traded [wallets, exchanges, coins and transactions. Basis for tax tracking and fiat values for portfolio analysis]
   *  CoinTracking:  https://cointracking.info/
   *  CryptoCompare:  https://www.cryptocompare.com/
   
