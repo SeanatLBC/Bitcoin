@@ -28,11 +28,17 @@ LIGHTNING NETWORK
   *  PASS THE TORCH:  https://www.takethetorch.online/Torch
   
 Tally Chart       https://tallyco.in/s/thz6f7/
-    
-    
 
+ *  See THE STATE OF BITCOIN report attached in branch Hello_World - as of Decemer 2018
+
+ *  LIGHTNING NETWORK
+    *  1ML - Lightning Network Search and Analysis Engine:  https://1ml.com/
  
- *  Schnorr / Rootstock / Lightning / etc - https://blockchainwhispers.com/bitcoin-btc-2019/
+ Schnorr / Rootstock / Lightning / etc - https://blockchainwhispers.com/bitcoin-btc-2019/
+ 
+   * Rootstock (RSK):  https://www.rsk.co/  Laying the Foundation for the Internet of Value
+   
+   * Schnorr Signatures:  https://en.bitcoin.it/wiki/Schnorr
 
  *  PURSE.io (Buy items on Amazon with Bitcoin (using Purse.io) to get 5% to 50% off):  https://www.youtube.com/watch?v=waF3E9QIIGc&feature=youtu.be
     *  This is a great way to dip your toes with BTC.  Buy $20 / $40 / $100 / etc of bitcoin and use here (to get familiar without risk WHILE    getting discounts on Amazon purchases!).
