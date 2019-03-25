@@ -43,6 +43,8 @@ Tally Chart       https://tallyco.in/s/thz6f7/
    * Rootstock (RSK):  https://www.rsk.co/  Laying the Foundation for the Internet of Value
    
    * Schnorr Signatures:  https://en.bitcoin.it/wiki/Schnorr
+   
+   * Bitcoin Pool:  https://pool.btc.com/tools
 
  *  PURSE.io (Buy items on Amazon with Bitcoin (using Purse.io) to get 5% to 50% off):  https://www.youtube.com/watch?v=waF3E9QIIGc&feature=youtu.be
     *  This is a great way to dip your toes with BTC.  Buy $20 / $40 / $100 / etc of bitcoin and use here (to get familiar without risk WHILE    getting discounts on Amazon purchases!).
