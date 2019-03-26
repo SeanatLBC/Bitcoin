@@ -1,6 +1,6 @@
 Without Bitcoin - Many of the innovations we are seeing emerge would not be happening....most.  It is with this in mind, that keeping up to date with developments of the core protocol and overall adoption of Bitcoin is so important.  Where Bitcoin goes...so will the rest of the market (At least for now)
 
-BITCOIN
+BITCOIN Genesis Block
 
 The Bitcoin Genesis Block contains this message (taken from the front page of Times of London):  "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks" 
 
