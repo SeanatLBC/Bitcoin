@@ -4,7 +4,7 @@ Bitcoin Genesis Block - Satoshi Nakamoto published the Bitcoin Whitepaper "Bitco
 
 The Bitcoin Genesis Block contains this message (taken from the front page of Times of London):  "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks" 
 
-Tx:000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f 
+This is the Hash for the 1st transaction (see what happens when you search this on one of the Explorers posted below):  Tx:000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f 
 
  *  Bitcoin Halving Countdown Clock:  https://www.bitcoinblockhalf.com/ [Understand this to understand the rest]
 
