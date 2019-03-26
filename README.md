@@ -31,12 +31,12 @@ LIGHTNING NETWORK
   *  VIDEO - Lightning Network Trust Video:  https://youtu.be/89TSOayiqtA
   *  PASS THE TORCH:  https://www.takethetorch.online/Torch
   
+  *  1ML - Lightning Network Search and Analysis Engine:  https://1ml.com/
+  
 Tally Chart       https://tallyco.in/s/thz6f7/
 
  *  See THE STATE OF BITCOIN report attached in branch Hello_World - as of Decemer 2018
-
- *  LIGHTNING NETWORK
-    *  1ML - Lightning Network Search and Analysis Engine:  https://1ml.com/
+ 
  
  Schnorr / Rootstock / Lightning / etc - https://blockchainwhispers.com/bitcoin-btc-2019/
  
