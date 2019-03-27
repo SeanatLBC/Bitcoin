@@ -44,6 +44,8 @@ Tally Chart       https://tallyco.in/s/thz6f7/
    
    * Schnorr Signatures:  https://en.bitcoin.it/wiki/Schnorr
    
+   *  Mimblewimble (comprehensive section in mycryptopedia):  https://www.mycryptopedia.com/mimblewimble-explained/
+   
    * Bitcoin Pool:  https://pool.btc.com/tools
 
  *  PURSE.io (Buy items on Amazon with Bitcoin (using Purse.io) to get 5% to 50% off):  https://www.youtube.com/watch?v=waF3E9QIIGc&feature=youtu.be
