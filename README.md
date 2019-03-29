@@ -14,7 +14,7 @@ This is the Hash for the 1st transaction (see what happens when you search this 
  
  *  Byzantine Fault Tolerance Wiki:  https://en.wikipedia.org/wiki/Byzantine_fault
  
- *  Blockchain.com (Hashrate and Transaction Analysis):  https://www.blockchain.com/en/charts/n-transactions-per-block
+ *  Blockchain.com (Hashrate and Transaction Analysis - BITCOIN):  https://www.blockchain.com/en/charts/n-transactions-per-block
  
  *  Byzantine General (explained):  https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969
 
