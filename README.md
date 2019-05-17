@@ -18,6 +18,8 @@ This is the Hash for the 1st transaction (see what happens when you search this 
  
  *  Blockchain.com (Hashrate and Transaction / Crypto Market Tool):  https://www.blockchain.com/en/charts/n-transactions-per-block
  
+ *  Bitcoin Batching (explainer article):  https://btcmanager.com/what-is-bitcoin-batching/
+ 
  *  Byzantine General (explained):  https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969
 
 
