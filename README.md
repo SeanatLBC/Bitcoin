@@ -54,6 +54,8 @@ Tally Chart       https://tallyco.in/s/thz6f7/
    *  Mimblewimble (comprehensive section in mycryptopedia):  https://www.mycryptopedia.com/mimblewimble-explained/
    
    * Bitcoin Pool:  https://pool.btc.com/tools
+   
+   *  Hackernoon Wallet Guide:  https://blockgeeks.com/guides/cryptocurrency-wallet-guide/
 
  *  PURSE.io (Buy items on Amazon with Bitcoin (using Purse.io) to get 5% to 50% off):  https://www.youtube.com/watch?v=waF3E9QIIGc&feature=youtu.be
     *  This is a great way to dip your toes with BTC.  Buy $20 / $40 / $100 / etc of bitcoin and use here (to get familiar without risk WHILE    getting discounts on Amazon purchases!).
