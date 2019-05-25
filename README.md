@@ -20,6 +20,8 @@ This is the Hash for the 1st transaction (see what happens when you search this 
  
  *  Blockchain Luxemburg Explorer [Hashrate / Unconmfirmed / Difficulty / Avg's / etc]:  https://www.blockchain.com/explorer
  
+ *  BitInfoCharts - lands on current Mempool:  https://bitinfocharts.com/comparison/bitcoin-transactionfees.html
+ 
  *  Bitcoin Batching (explainer article):  https://btcmanager.com/what-is-bitcoin-batching/
  *  Bitcoin Batching Analysis:  https://medium.com/@hasufly/an-analysis-of-batching-in-bitcoin-9bdf81a394e0
  
