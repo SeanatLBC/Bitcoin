@@ -38,6 +38,8 @@ LIGHTNING NETWORK
 
   *  The Lightning Network:  https://lightning.network/
   *  The Lightning Wiki:  https://en.wikipedia.org/wiki/Lightning_Network
+  
+  *  Lightning Explained (good article with some technical elements):  https://dailyhodl.com/2019/05/23/on-lightning-network-a-demonstration-in-solidity/
  
   *  VIDEO - Lightning Network Trust Video:  https://youtu.be/89TSOayiqtA
   *  PASS THE TORCH:  https://www.takethetorch.online/Torch
