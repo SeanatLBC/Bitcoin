@@ -14,6 +14,8 @@ This is the Hash for the 1st transaction (see what happens when you search this 
  
  *  Every Bitcoin Fork and Airdrop:  https://forkdrop.io/
  
+ *  BUY Giftcards with Bitcoin:  https://giftcards.bitcoin.com/giftcards
+ 
  *  Byzantine Fault Tolerance Wiki:  https://en.wikipedia.org/wiki/Byzantine_fault
  
  *  Blockchain.com (Hashrate and Transaction / Crypto Market Tool):  https://www.blockchain.com/en/charts/n-transactions-per-block
@@ -59,7 +61,7 @@ Tally Chart       https://tallyco.in/s/thz6f7/
    
    *  Mimblewimble (comprehensive section in mycryptopedia):  https://www.mycryptopedia.com/mimblewimble-explained/
    
-   * Bitcoin Pool:  https://pool.btc.com/tools
+   *  Bitcoin Pool:  https://pool.btc.com/tools
    
    *  Hackernoon Wallet Guide:  https://blockgeeks.com/guides/cryptocurrency-wallet-guide/
 
