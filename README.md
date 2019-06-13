@@ -29,7 +29,7 @@ This is the Hash for the 1st transaction (see what happens when you search this 
  
  *  Byzantine General (explained):  https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969
  
- *  How to Run a Full Node (And Why It Is Important):  https://bitcoin.org/en/posts/how-to-run-a-full-node#why-is-running-a-full-bitcoin-node-important
+ *  How to Run a Full Node (and why it is important):  https://bitcoin.org/en/posts/how-to-run-a-full-node#why-is-running-a-full-bitcoin-node-important
 
 
  *  Satoshi Institute:  https://nakamotoinstitute.org/
