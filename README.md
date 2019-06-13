@@ -28,6 +28,8 @@ This is the Hash for the 1st transaction (see what happens when you search this 
  *  Bitcoin Batching Analysis:  https://medium.com/@hasufly/an-analysis-of-batching-in-bitcoin-9bdf81a394e0
  
  *  Byzantine General (explained):  https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969
+ 
+ *  How to Run a Full Node (And Why It Is Important):  https://bitcoin.org/en/posts/how-to-run-a-full-node#why-is-running-a-full-bitcoin-node-important
 
 
  *  Satoshi Institute:  https://nakamotoinstitute.org/
