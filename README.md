@@ -6,6 +6,8 @@ The Bitcoin Genesis Block contains this message (taken from the front page of Ti
 
 This is the Hash for the 1st transaction (see what happens when you search this on one of the public ledger Explorers posted below):  Tx:000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f 
 
+INTRODUCTION TO BITCOIN (a Presentation by Andreas Antenopolous):  https://www.youtube.com/watch?v=l1si5ZWLgy0&list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj&index=2&t=0s
+
  *  Bitcoin Halving Countdown Clock:  https://www.bitcoinblockhalf.com/ [Understand this to understand the rest]
 
  *  Bitcoin.org:  https://bitcoin.org/en/
