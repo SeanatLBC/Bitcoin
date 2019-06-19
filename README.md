@@ -53,6 +53,7 @@ LIGHTNING NETWORK
   *  PASS THE TORCH:  https://www.takethetorch.online/Torch
   
   *  1ML - Lightning Network Search and Analysis Engine:  https://1ml.com/
+  *  Lightning Wallet Beta Download (Android and IOS):  https://blog.lightning.engineering/announcement/2019/06/19/mobile-app.html
   
 Tally Chart       https://tallyco.in/s/thz6f7/
 
