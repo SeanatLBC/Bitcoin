@@ -33,6 +33,8 @@ INTRODUCTION TO BITCOIN (a Presentation by Andreas Antenopolous):  https://www.y
  
  *  Byzantine General (explained):  https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969
  
+ *  Step by Step Guide to setting up your own Bitcoin Node:  https://99bitcoins.com/step-by-step-guide-firing-up-bitcoin-node/
+ 
  *  How to Run a Full Node (and why it is important):  https://bitcoin.org/en/posts/how-to-run-a-full-node#why-is-running-a-full-bitcoin-node-important
 
 
