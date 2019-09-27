@@ -16,6 +16,8 @@ INTRODUCTION TO BITCOIN (a Presentation by Andreas Antenopolous):  https://www.y
 
  *  Bitcoin Wiki:  https://en.bitcoin.it/wiki/Main_Page
  
+ *  99Bitcoins - User Freindly Tutorials and Services:  https://99bitcoins.com/bitcoin/
+ 
  *  Every Bitcoin Fork and Airdrop:  https://forkdrop.io/
  
  *  BUY Giftcards with Bitcoin:  https://giftcards.bitcoin.com/giftcards
