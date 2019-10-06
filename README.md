@@ -11,6 +11,8 @@ INTRODUCTION TO BITCOIN (a Presentation by Andreas Antenopolous):  https://www.y
  *  The entire Andreas Antenopolous Playlist (assorted tutorials and presentations on all things Bitcoin):  https://www.youtube.com/playlist?list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj  
 
  *  Bitcoin Halving Countdown Clock:  https://www.bitcoinblockhalf.com/ [Understand this to understand the rest]
+ 
+ *  Current Hashpower in the Bitcoin Network:  https://www.blockchain.com/en/charts/hash-rate
 
  *  Bitcoin.org:  https://bitcoin.org/en/
 
