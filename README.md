@@ -22,6 +22,8 @@ INTRODUCTION TO BITCOIN (a Presentation by Andreas Antenopolous):  https://www.y
  
  *  Bitinfocharts - Crypto Stats:  https://bitinfocharts.com/comparison/transactions-btc-eth-ltc-bch-xrp.html#3m
  
+ *  Understanding Bitcoin UXTO Metrics and Market Behaviours:  https://insights.glassnode.com/dissecting-bitcoins-unrealised-on-chain-profit-loss/ 
+ 
  *  99Bitcoins - User Freindly Tutorials and Services:  https://99bitcoins.com/bitcoin/
  
  *  Every Bitcoin Fork and Airdrop:  https://forkdrop.io/
