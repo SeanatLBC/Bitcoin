@@ -8,6 +8,8 @@ This is the Hash for the 1st transaction (see what happens when you search this 
 
 INTRODUCTION TO BITCOIN (a Presentation by Andreas Antenopolous):  https://www.youtube.com/watch?v=l1si5ZWLgy0&list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj&index=2&t=0s
 
+ *  Why Bitcoin - a 45 minute interview with Andreas Antenopolous:  https://youtu.be/l3BiLi5LSE0
+
  *  The entire Andreas Antenopolous Playlist (assorted tutorials and presentations on all things Bitcoin):  https://www.youtube.com/playlist?list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj  
  
  *  BTC Halving (A Primer):  https://www.bitcoinclock.com/
