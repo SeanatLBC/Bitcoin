@@ -103,3 +103,6 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   *  Block Cypher:  https://live.blockcypher.com/btc/
 
 
+Articles of interest:
+
+*  Why Bitcoin is Different (by Jimmy Song):  https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947
