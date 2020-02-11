@@ -17,6 +17,8 @@ INTRODUCTION TO BITCOIN (a Presentation by Andreas Antenopolous):  https://www.y
  *  Bitcoin Halving Countdown Clock:  https://www.bitcoinblockhalf.com/ [Understand this to understand the rest]
  
  *  Current Hashpower in the Bitcoin Network:  https://www.blockchain.com/en/charts/hash-rate
+ 
+ *  Mempool Observer - If your bitcoin transaction is taking a long time, type the tx hash in here.  It will show you where your transaction is in relation to other unconfirmed txs / fee rates:  https://mempool.observer/
 
  *  Bitcoin.org:  https://bitcoin.org/en/
 
