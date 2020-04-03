@@ -34,6 +34,8 @@ INTRODUCTION TO BITCOIN (a Presentation by Andreas Antenopolous):  https://www.y
  
  *  99Bitcoins - User Freindly Tutorials and Services:  https://99bitcoins.com/bitcoin/
  
+ *  Jamesone Lopp Resources - best bitcoin documentaries:  https://www.lopp.net/bitcoin-information/documentaries.html
+ 
  *  Every Bitcoin Fork and Airdrop:  https://forkdrop.io/
  
  *  BUY Giftcards with Bitcoin:  https://giftcards.bitcoin.com/giftcards
