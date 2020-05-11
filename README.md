@@ -82,6 +82,7 @@ LIGHTNING NETWORK
 Tally Chart       https://tallyco.in/s/thz6f7/
 
  *  See THE STATE OF BITCOIN report attached in branch Hello_World - as of Decemer 2018
+ *  The State of BITCOIN 2020 - Delphi Link:  https://www.delphidigital.io/halving?utm_campaign=a7e46951-2129-4899-9243-a13ee5c87b44&utm_source=so&utm_medium=mail&cid=b591ce3e-92bc-42d7-b512-652b1f60547f
  
  
  Schnorr / Rootstock / Lightning / etc - https://blockchainwhispers.com/bitcoin-btc-2019/
