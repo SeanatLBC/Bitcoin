@@ -36,7 +36,9 @@ INTRODUCTION TO BITCOIN (a Presentation by Andreas Antenopolous):  https://www.y
  
  *  Jamesone Lopp Resources - best bitcoin documentaries:  https://www.lopp.net/bitcoin-information/documentaries.html
  
- *  Bitcoin Stock to Flow Model:  https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12
+ *  Bitcoin Stock to Flow Model (Original - 2019):  https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25
+ 
+ *  Bitcoin Stock to Flow Model (2020):  https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12
  
  *  Every Bitcoin Fork and Airdrop:  https://forkdrop.io/
  
