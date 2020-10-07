@@ -32,6 +32,8 @@ INTRODUCTION TO BITCOIN (a Presentation by Andreas Antenopolous):  https://www.y
  
  *  Understanding Bitcoin UXTO Metrics and Market Behaviours:  https://insights.glassnode.com/dissecting-bitcoins-unrealised-on-chain-profit-loss/ 
  
+ *  Market Sentiment - the Fear and Greed Index: https://alternative.me/crypto/fear-and-greed-index/
+ 
  *  99Bitcoins - User Freindly Tutorials and Services:  https://99bitcoins.com/bitcoin/
  
  *  Jamesone Lopp Resources - best bitcoin documentaries:  https://www.lopp.net/bitcoin-information/documentaries.html
