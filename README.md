@@ -11,6 +11,8 @@ INTRODUCTION TO BITCOIN (a Presentation by Andreas Antenopolous):  https://www.y
 *  Bitcoin - Under the Hood:  https://www.youtube.com/watch?v=Lx9zgZCMqXE
 
  *  Why Bitcoin - a 45 minute interview with Andreas Antenopolous by Peter McCormick:  https://youtu.be/l3BiLi5LSE0
+ 
+ *  Nakamotoinstitute - Origins of Money (everything that led to Bitcoin):  https://nakamotoinstitute.org/literature/
 
  *  The entire Andreas Antenopolous Playlist (assorted tutorials and presentations on all things Bitcoin):  https://www.youtube.com/playlist?list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj  
  
