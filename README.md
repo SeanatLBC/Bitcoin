@@ -52,6 +52,10 @@ INTRODUCTION TO BITCOIN (a Presentation by Andreas Antenopolous):  https://www.y
  
  *  Byzantine Fault Tolerance Wiki:  https://en.wikipedia.org/wiki/Byzantine_fault
  
+ *  Bitcoin Explorer - Block Cypher:  https://live.blockcypher.com/btc/
+ 
+ *  Bitcoin Explorer - Blockstream:  https://blockstream.info/
+ 
  *  Blockchain.com (Hashrate and Transaction / Crypto Market Tool):  https://www.blockchain.com/en/charts/n-transactions-per-block
  
  *  Blockchain Luxemburg Explorer [Hashrate / Unconmfirmed / Difficulty / Avg's / etc]:  https://www.blockchain.com/explorer
