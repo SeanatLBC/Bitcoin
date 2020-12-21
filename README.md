@@ -79,6 +79,27 @@ INTRODUCTION TO BITCOIN (a Presentation by Andreas Antenopolous):  https://www.y
  *  Satoshi Wiki:  https://en.wikipedia.org/wiki/Satoshi_Nakamoto
  
  *  Satoshi Calculator [instantly convert any USD, GBP, RUB, CAD, etc into BTC Sats]:  https://www.btcsatoshi.com/
+ 
+ SECURITY AND HACKS AND KEYS AND SO FORTH:
+
+ *  Website to see if you've been affected by the ledger hack: https://intelx.io/​
+ 
+ *  How much of your data has already been breached (by other hacks): https://haveibeenpwned.com/​
+ 
+ *  Jameson's guide to mitigating physical attacks: https://github.com/jlopp/physical-bit...​
+ 
+ *  One option to get disposable email addresses: https://mailinator.com​
+ 
+ *  One option to get disposable phone numbers: https://quackr.io/​
+ 
+ *  One option for TOTP: https://authy.com/​
+ 
+ *  One option for physical U2F: https://www.yubico.com/​
+
+Related Videos: 
+ *  Key Management & Hardware Wallets: https://youtu.be/bc3HQqCSl7A​
+ *  Cryptocurrency Security Session: https://youtu.be/P7IuPA26GGc​
+ *  Passwords and Authentication: https://youtu.be/m8jlnZuV1i4
 
 LIGHTNING NETWORK
 
