@@ -81,6 +81,8 @@ INTRODUCTION TO BITCOIN (a Presentation by Andreas Antenopolous):  https://www.y
  *  Satoshi Calculator [instantly convert any USD, GBP, RUB, CAD, etc into BTC Sats]:  https://www.btcsatoshi.com/
  
  SECURITY AND HACKS AND KEYS AND SO FORTH:
+ 
+ *  Andreas Antonopolous and Jameson Lopp on Security:  https://youtu.be/uKCMx8nqQhY
 
  *  Website to see if you've been affected by the ledger hack: https://intelx.io/​
  
