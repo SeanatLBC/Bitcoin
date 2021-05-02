@@ -98,6 +98,9 @@ INTRODUCTION TO BITCOIN (a Presentation by Andreas Antenopolous):  https://www.y
  
  *  One option for physical U2F: https://www.yubico.com/​
 
+ *  BIP chart of all the words used in seeds - great for advanced checking of pneumonics:  https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt
+    *  NOTE:  ETH seeds use these words as well.
+
 Related Videos: 
  *  Key Management & Hardware Wallets: https://youtu.be/bc3HQqCSl7A​
  *  Cryptocurrency Security Session: https://youtu.be/P7IuPA26GGc​
