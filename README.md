@@ -26,6 +26,8 @@ INTRODUCTION TO BITCOIN (a Presentation by Andreas Antenopolous):  https://www.y
  
  *  Mempool Observer - If your bitcoin transaction is taking a long time, type the tx hash in here.  It will show you where your transaction is in relation to other unconfirmed txs / fee rates:  https://mempool.observer/
 
+ *  Taproot Watch:  https://taproot.watch/
+
  *  Bitcoin.org:  https://bitcoin.org/en/
 
  *  Bitcoin Wiki:  https://en.bitcoin.it/wiki/Main_Page
