@@ -120,6 +120,13 @@ LIGHTNING NETWORK
   
   *  1ML - Lightning Network Search and Analysis Engine:  https://1ml.com/
   *  Lightning Wallet Beta Download (Android and IOS):  https://blog.lightning.engineering/announcement/2019/06/19/mobile-app.html
+
+  *  Lightning - Node Doctor / Terminal Web - Ranking and suggestions:  https://terminal.lightning.engineering/#/
+  *  Lightning Network Explorer:  https://amboss.space/
+  *  Reddit Lightning Sub:  https://www.reddit.com/r/lightningnetwork/
+  *  Moneni: Various Bitcoin and Lightning services:  https://moneni.com/
+  *  Andreas M. Antonopoulos explains Lightning:  https://github.com/lnbook/lnbook
+
   
 Tally Chart       https://tallyco.in/s/thz6f7/
 
