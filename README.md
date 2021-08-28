@@ -8,6 +8,8 @@ This is the Hash for the 1st transaction (see what happens when you search this 
 
 INTRODUCTION TO BITCOIN (a Presentation by Andreas Antenopolous):  https://www.youtube.com/watch?v=l1si5ZWLgy0&list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj&index=2&t=0s
 
+HOW BITCOIN IS CHANGING THE WORLD (a follow up by Andreas Antenopolous):  https://www.youtube.com/watch?v=L3inD3EwSOU
+
 *  Bitcoin - Under the Hood:  https://www.youtube.com/watch?v=Lx9zgZCMqXE
 
  *  Why Bitcoin - a 45 minute interview with Andreas Antenopolous by Peter McCormick:  https://youtu.be/l3BiLi5LSE0
