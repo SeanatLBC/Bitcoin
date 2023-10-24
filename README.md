@@ -160,10 +160,14 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   Portfolio Management - you can use these to track coins you hold or have traded [wallets, exchanges, coins and transactions. Basis for tax tracking and fiat values for portfolio analysis]
   *  CoinTracking:  https://cointracking.info/
   *  CryptoCompare:  https://www.cryptocompare.com/
+  *  Bitwave:  https://www.bitwave.io/
+  *  Integral:  https://www.integral.com/
   
   Bitcoin Explorers - you can use these to see all your activity on the public blockchain (Bitcoin) 
   *  Block Explorer:  https://www.blockchain.com/explorer
   *  Block Cypher:  https://live.blockcypher.com/btc/
+
+  * 
 
 
 Articles of interest:
