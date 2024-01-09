@@ -167,7 +167,9 @@ TRACKING BLOCKCHAIN TRANSACTIONS / BLOCK EXPLORERS
   *  Block Explorer:  https://www.blockchain.com/explorer
   *  Block Cypher:  https://live.blockcypher.com/btc/
 
-  * 
+The Spot BTC ETF:
+
+  *  Posting this article on Jan 9, 2024.  The BTC EFT is expected to be approved (denied?) any day now.  The price of #BTC is around $46k (after running up since mid-2023). Some say this ETF will do more towards driving adoption of the cryptoshpere than anything to date.  Once the users come, the innovations will explode with new engagement models:  https://beincrypto.com/sec-delay-signal-dismissed-last-minute-etf-amendments/
 
 
 Articles of interest:
