@@ -8,6 +8,9 @@ This is the Hash for the 1st transaction (see what happens when you search this 
 
 INTRODUCTION TO BITCOIN (a Presentation by Andreas Antenopolous):  https://www.youtube.com/watch?v=l1si5ZWLgy0&list=PLPQwGV1aLnTuN6kdNWlElfr2tzigB9Nnj&index=2&t=0s
 
+NOVEMBER 2024 UPDATE:  The price of a single #BTC just hit $80,000.  Many say the superwave of the tech adoption is just about to begin!
+
+
 HOW BITCOIN IS CHANGING THE WORLD (a follow up by Andreas Antenopolous):  
 
 *  Bitcoin - Under the Hood:  https://www.youtube.com/watch?v=Lx9zgZCMqXE
